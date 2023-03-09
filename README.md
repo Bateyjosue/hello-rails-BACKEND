@@ -72,6 +72,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Frontend Link](https://github.com/Bateyjosue/react_rails_FRONTEND/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
